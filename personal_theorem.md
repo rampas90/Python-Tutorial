@@ -266,7 +266,7 @@
                 - "Cookie에 대해서 a가 객체가 되기 위해서는 Cookie의 인스턴스가 되어야한다."
         - **클래스를 만들 때는 반드시 어떻게 만들지를 먼저 구상하자!**
         - 클래스를 만들 때는 반드시 어떠한 동작을 하기 전에 그 동작을 할 수 있는 **재료** 들을 만들어주어야 한다. 쉽게 말해 사칙연산 클래스를 만들고 싶다면 재료들을 만들어놔야 사직연산을 할 수 있다는 것이다.
-        - <center> <img src="https://www.dropbox.com/s/majgfzptv5ncvsx/Screen%20Shot%202018-07-23%20at%203.09.46%20PM.png?dl=1" width="500"> </center>
+        - <img src="https://www.dropbox.com/s/majgfzptv5ncvsx/Screen%20Shot%202018-07-23%20at%203.09.46%20PM.png?dl=1" width="500">
         - 파이썬 메서드의 첫번째 매개변수명은 관례적으로 **self** 라는 이름을 사용한다. 호출 시 호출한 객체 자신이 전달되기 때문에 self("self"는 자기자신이라는 뜻을 가진 영어단어이다.)라는 이름을 사용하게 된 것이다. 물론 self말고 다른 이름을 사용해도 상관은 없다.
         - self.first = first / self.second = second
             - = self.first = 4 / self.second = 2
