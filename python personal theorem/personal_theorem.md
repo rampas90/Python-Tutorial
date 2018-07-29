@@ -60,6 +60,7 @@
             - del 함수
         - 리스트 관련 함수들
             - append(x)
+                - append([x,y])로 하면 [x,y]가 하나의 요소가 되어 들어간다.
             - sort()
             - reverse()
             - index(x)
