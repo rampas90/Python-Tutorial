@@ -1,4 +1,4 @@
-# Introduction to Python
+# Python Tutorial
 
 - 이 Repository는 Python을 기초부터 다시 한 번 정리하고자 만든 것입니다.
 - 해당 커리큘럼은 "점프 투 파이썬"을 이용하였습니다.
