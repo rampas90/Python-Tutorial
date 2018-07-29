@@ -9,6 +9,7 @@
 ## 목차
 
 [1. 둘러보기](https://github.com/dongminleeai/Python-Tutorial/blob/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0.ipynb)
+
     - 사칙연산
     - 변수에 숫자 대입하고 계산하기
     - 변수에 문자 대입하고 출력하기
@@ -18,6 +19,7 @@
     - 함수
 
 [2. 자료형](https://github.com/dongminleeai/Python-Tutorial/blob/master/2.%20%EC%9E%90%EB%A3%8C%ED%98%95.ipynb)
+
     - 숫자형
     - 문자열 자료형
     - 리스트 자료형
@@ -28,22 +30,26 @@
     - 자료형의 값을 저장하는 공간, 변수
 
 [3. 제어문](https://github.com/dongminleeai/Python-Tutorial/blob/master/3.%20%EC%A0%9C%EC%96%B4%EB%AC%B8.ipynb)
+
     - if문
     - while문
     - for문
 
 [4. 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+
     - 함수
     - 사용자의 입력과 출력
     - 파일 읽고 쓰기
 
 [5. 클래스, 모듈, 예외 처리](https://github.com/dongminleeai/Python-Tutorial/blob/master/5.%20%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EB%AA%A8%EB%93%88%2C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.ipynb)
+
     - 클래스
     - 모듈
     - 패키지
     - 예외 처리
 
 [6. 파이썬 라이브러리](https://github.com/dongminleeai/Python-Tutorial/blob/master/6.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb)
+
     - 내장 함수
     - 외장 함수
 
