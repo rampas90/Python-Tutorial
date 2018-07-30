@@ -267,7 +267,7 @@
                 - "Cookie에 대해서 a가 객체가 되기 위해서는 Cookie의 인스턴스가 되어야한다."
         - **클래스를 만들 때는 반드시 어떻게 만들지를 먼저 구상하자!**
         - 클래스를 만들 때는 반드시 어떠한 동작을 하기 전에 그 동작을 할 수 있는 **재료** 들을 만들어주어야 한다. 쉽게 말해 사칙연산 클래스를 만들고 싶다면 재료들을 만들어놔야 사직연산을 할 수 있다는 것이다.
-        - <center> <img src="https://www.dropbox.com/s/majgfzptv5ncvsx/Screen%20Shot%202018-07-23%20at%203.09.46%20PM.png?dl=1" width="500"> </center>
+        - <img src="https://www.dropbox.com/s/majgfzptv5ncvsx/Screen%20Shot%202018-07-23%20at%203.09.46%20PM.png?dl=1" width="500">
         - 파이썬 메서드의 첫번째 매개변수명은 관례적으로 **self** 라는 이름을 사용한다. 호출 시 호출한 객체 자신이 전달되기 때문에 self("self"는 자기자신이라는 뜻을 가진 영어단어이다.)라는 이름을 사용하게 된 것이다. 물론 self말고 다른 이름을 사용해도 상관은 없다.
         - self.first = first / self.second = second
             - = self.first = 4 / self.second = 2
@@ -513,7 +513,7 @@
             - import thrading / for msg in ['you', 'need', 'python']: / t = threading.Thread(target=say, args=(msg,)) / t.daemon = True / t.start()
                 - 위 결과값에서 볼 수 있듯이 스레드는 메인 프로그램과는 별도로 실행되는 것을 확인할 수 있다.
             - 이러한 스레드 프로그래밍을 가능하게 해주는 것이 바로 threading.Thread 클래스이다. 이 클래스의 첫번째 인수는 함수 이름을, 두 번째 인수는 첫 번째 인수인 함수의 입력 변수를 받는다. 다음과 같이 스레드를 클래스로 정의해도 동일한 결과를 얻을 수 있다.
-                - <center> <img src="https://www.dropbox.com/s/e2gxxose5dtc8iz/Screen%20Shot%202018-07-28%20at%203.32.03%20PM.png?dl=1" width="500"> </center>
+                - <img src="https://www.dropbox.com/s/e2gxxose5dtc8iz/Screen%20Shot%202018-07-28%20at%203.32.03%20PM.png?dl=1" width="500">
                 - 반드시 써야하는 부분. import threading / class blabla(threading.Thread) : / def $__init__$(self, mag): / threading.Thread.$__init__$(self)
                 - 스레드를 클래스로 정의할 경우에는 $init$ 메서드에서 $threading.Thread.init(self)$와 같이 부모 클래스의 생성자를 반드시 호출해야 한다. MyThread로 생성된 객체의 start 메서드를 실행할 때는 MyThread 클래스의 run 메서드가 자동으로 수행된다. 다시 말해 threading.Thread 로부터 파생클래스를 만드는 방식은 Thread 클래스를 파생하여 쓰레드가 실행할 run() 메서드를 재정의해서 사용하는 방식이다. Thread 클래스에서 run() 메서드는 쓰레드가 실제 실행하는 메서드이며, start() 메서드는 내부적으로 이 run() 메서드를 호출한다.
 
