@@ -57,7 +57,8 @@
 
 ## 세부목차
 
-1. 둘러보기
+[1. 둘러보기](https://github.com/dongminleeai/Python-Tutorial/blob/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0.ipynb)
+
     - 사칙연산
         - 덧셈과 뻴셈
         - 곱셈과 나눗셈
@@ -68,7 +69,8 @@
     - 반복문 while
     - 함수
 
-2. 자료형
+[2. 자료형](https://github.com/dongminleeai/Python-Tutorial/blob/master/2.%20%EC%9E%90%EB%A3%8C%ED%98%95.ipynb)
+
     - 숫자형
         - 숫자형
             - 정수형
@@ -173,7 +175,8 @@
             - copy
         - 변수를 만드는 여러 가지 방법
 
-3. 제어문
+[3. 제어문](https://github.com/dongminleeai/Python-Tutorial/blob/master/3.%20%EC%A0%9C%EC%96%B4%EB%AC%B8.ipynb)
+
     - if문
         - 들여쓰기
         - 조건문
@@ -196,7 +199,8 @@
         - range 함수
         - 리스트 안에 for문 포함하기
 
-4. 입력과 출력
+[4. 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+
     - 함수
         - 함수를 사용하는 이유
         - 함수의 구조
@@ -232,7 +236,8 @@
     - 파일에 새로운 내용 추가
     - with문과 함께 사용
 
-5. 클래스, 모듈, 예외 처리
+[5. 클래스, 모듈, 예외 처리](https://github.com/dongminleeai/Python-Tutorial/blob/master/5.%20%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EB%AA%A8%EB%93%88%2C%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.ipynb)
+
     - 클래스
         - 클래스는 왜 필요한가?
         - 클래스와 객체
@@ -273,7 +278,8 @@
         - 오류 일부러 발생시키기
         - 예외 만들기
 
-6. 파이썬 라이브러리 (*은 자주 쓰는 함수들이다.)
+[6. 파이썬 라이브러리](https://github.com/dongminleeai/Python-Tutorial/blob/master/6.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb) (*은 자주 쓰는 함수들이다.)
+
     - 내장 함수
         - 숫자
             - abs *
