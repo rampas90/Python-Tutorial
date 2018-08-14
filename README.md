@@ -35,7 +35,7 @@
     - while문
     - for문
 
-[4. 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
 
     - 함수
     - 사용자의 입력과 출력
@@ -199,7 +199,7 @@
         - range 함수
         - 리스트 안에 for문 포함하기
 
-[4. 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
 
     - 함수
         - 함수를 사용하는 이유
@@ -211,7 +211,7 @@
             - 결과값이 없는 함수
             - 입력값도 결과값도 없는 함수
         - 매개변수 지정하여 호출하기
-        - 입력값이 몇 개가 될지 모를 때
+        - 입력값이 몇 개가 될지 모를 때($*$args, $**$kargs)
         - 함수의 결과값(return값)은 하나
         - 매개변수에 초깃값 미리 설정하기
             - 함수 매개변수에 초깃값을 설정할 때 주의사항
