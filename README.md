@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$'], ['\\(','\\)']]}});</script>
+
 # Python Tutorial
 
 - 이 Repository는 Python을 기초부터 다시 한 번 정리하고자 만든 것입니다.
