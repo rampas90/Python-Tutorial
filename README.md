@@ -296,7 +296,7 @@
                 - round(x, y)
         - 문자
             - str *
-            - eval *
+            - eval
             - chr
             - ord
             - oct
@@ -331,7 +331,7 @@
             - sys.argv
             - sys.exit
             - sys.path
-        - pickle *
+        - pickle
         - os
             - os.environ
             - os.chdir
@@ -354,8 +354,8 @@
             - calendar.monthrange
         - random *
         - webbrowser
-        - namedtuple
-        - defaultdict
+        - namedtuple *
+        - defaultdict *
         - threading *
 
 (to be continue..)

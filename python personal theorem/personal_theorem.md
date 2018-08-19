@@ -384,7 +384,7 @@
         - 문자
             - str *
                 - str(object)은 문자열 형태로 객체를 변환하여 리턴하는 함수이다.
-            - eval *
+            - eval
                 - eval(expression)은 실행 가능한 문자열(1+2, 'hi' + 'a')을 입력으로 받아 문자열을 실행한 결과값을 리턴하는 함수이다.
                 - 보통 eval은 입력받은 문자열로 파이썬 함수나 클래스를 동적으로 실행하고 싶은 경우에 사용된다.
             - chr
@@ -460,7 +460,7 @@
                 - 쉽게 말해 명령 프롬프트 창에서 입력을 주고 싶을 때 사용하는 것 같다. 어디에 쓰는지는 아직 잘 모르겠다.
             - 강제로 스크립트 종료하기 - sys.exit
             - 자신이 만든 모뷸 불러와 사용하기 - sys.path
-        - pickle *
+        - pickle
             - pickle은 객체의 형태를 그대로 유지하면서 파일에 저장하고 불러올 수 있게 하는 모듈이다.
                 - pickle 모듈의 dump 함수를 이용하여 딕셔너리 객체인 data를 그대로 파일에 저장하는 방법
                 - pickle.dump에 의해 저장된 파일을 pickle.load를 이용해서 원래 있던 딕셔너리 객체(data) 상태 그대로 불러옴
@@ -506,9 +506,9 @@
             - 리스트의 항목을 무작위로 섞고 싶을 때는 random.shuffle 함수를 이용하면 된다.
                 - random.shuffle(data)
         - webbrowser
-        - namedtuple
-        - defaultdict
-        - threading
+        - namedtuple *
+        - defaultdict *
+        - threading *
             - 컴퓨터에서 동작하고 있는 프로그램을 프로세스(Process)라고 한다. 보통 1개의 프로세스는 1가지 일만 하지만, 스레드를 이용하면 한 프로세스 내에서 2가지 또는 그 이상의 일을 동시에 수행하게 할 수 있다.
             - import thrading / for msg in ['you', 'need', 'python']: / t = threading.Thread(target=say, args=(msg,)) / t.daemon = True / t.start()
                 - 위 결과값에서 볼 수 있듯이 스레드는 메인 프로그램과는 별도로 실행되는 것을 확인할 수 있다.
