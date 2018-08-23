@@ -296,7 +296,7 @@
                 - round(x, y)
         - 문자
             - str *
-            - eval
+            - eval *
             - chr
             - ord
             - oct
