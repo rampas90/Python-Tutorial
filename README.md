@@ -35,7 +35,7 @@
     - while문
     - for문
 
-[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%ED%95%A8%EC%88%98%20%26%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
 
     - 함수
     - 사용자의 입력과 출력
@@ -199,7 +199,7 @@
         - range 함수
         - 리스트 안에 for문 포함하기
 
-[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
+[4. 함수 & 입력과 출력](https://github.com/dongminleeai/Python-Tutorial/blob/master/4.%20%ED%95%A8%EC%88%98%20%26%20%EC%9E%85%EB%A0%A5%EA%B3%BC%20%EC%B6%9C%EB%A0%A5.ipynb)
 
     - 함수
         - 함수를 사용하는 이유
